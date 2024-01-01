@@ -5,7 +5,7 @@ import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import parthmittal from "./parth.svg";
-import profilePic from "./yash.png";
+import YashImage from "./yash.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
@@ -88,7 +88,7 @@ export {
   zulip,
   cdc,
   parthmittal,
-  profilePic,
+  YashImage,
   chargeswap,
   placeicon,
   recruitment,
